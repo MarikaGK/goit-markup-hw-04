@@ -563,7 +563,7 @@ ul {
 
 .result-card-description {
   display: block;
-  padding-left: 24px;
+  padding: 20px 24px;
   border-bottom: 1px solid #eeeeee;
   border-left: 1px solid #eeeeee;
   border-right: 1px solid #eeeeee;
@@ -571,9 +571,11 @@ ul {
 
 .result-card-title {
   color: var(--bold-color);
-  font-weight: 500;
-  line-height: 2.25;
+  font-size: 18px;
+  line-height: 2;
   letter-spacing: 00.06em;
+  margin: 0;
+  padding: 0;
 }
 
 .result-card-text {
