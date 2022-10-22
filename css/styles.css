@@ -158,7 +158,7 @@ ul {
 .contact-list-header-link:hover,
 .contact-list-header-link:focus {
   color: var(--highlight);
-  --color2: var(--highlight);
+  --color2: currentColor;
 }
 
 /* == ==== End of Header ==== == */
