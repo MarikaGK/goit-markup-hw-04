@@ -474,7 +474,7 @@ ul {
 }
 
 .ourclients-logo {
-  display: flex;
+  display: inline-flex;
 }
 
 .ourclients-link:hover,
